@@ -68,7 +68,7 @@ The Excel data was processed using a Python script to generate the IDS–VDS cur
 | `Script/`  | Python code for plotting data             |
 
 ---
-##🙋‍♂️ Author
+🙋‍♂️ Author
 Mainak Roy
 M.Sc. Electrical Engineering
 Universität Siegen, 2025
