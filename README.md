@@ -59,22 +59,15 @@ The Excel data was processed using a Python script to generate the IDS–VDS cur
 
 ## 📁 Folder Structure
 
+| Folder     | Contents                                  |
+|------------|-------------------------------------------|
+| `data/`    | Excel sheet with manually recorded values |
+| `KiCad/`   | Circuit schematic in `.kicad_sch` format  |
+| `Plot/`    | Output graph as PNG image                 |
+| `Report/`  | Lab report PDF                            |
+| `Script/`  | Python code for plotting data             |
 
-JFET-BF256A-Characterization/
-├── data/
-│   └── JFET_output_table.xlsx
-├── KiCad/
-│   └── Common Source NJFET.kicad_sch, etc.
-├── Plot/
-│   └── jfet_plot.png
-├── Report/
-│   └── Schaltungstechnik_aufgabe_2.pdf
-├── Script/
-│   └── JFET_Characteristics.py
-├── requirements.txt
-└── README.md
 ---
-
 ## ▶️ Run the Plot Script
 
 ### ✅ 1. Install requirements
