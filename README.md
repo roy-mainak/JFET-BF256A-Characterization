@@ -68,10 +68,8 @@ The Excel data was processed using a Python script to generate the IDS–VDS cur
 | `Script/`  | Python code for plotting data             |
 
 ---
-## ▶️ Run the Plot Script
-
-### ✅ 1. Install requirements
-
-```bash
-pip install -r requirements.txt
+##🙋‍♂️ Author
+Mainak Roy
+M.Sc. Electrical Engineering
+Universität Siegen, 2025
 
