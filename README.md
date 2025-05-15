@@ -25,7 +25,7 @@ A common-source JFET circuit was built on a breadboard. The drain current (IDS) 
 
 📁 Files:
 - `data/JFET_output_table.xlsx` – Manually recorded values  
-- `Report/Schaltungstechnik_aufgabe_2.pdf` – Final lab report  
+- `Report/Schlatungstechnik_JFET.pdf` – Final lab report  
 
 ---
 
