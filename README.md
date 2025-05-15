@@ -1,4 +1,4 @@
-# ⚡ JFET Output Characteristics – Lab Measurement, KiCad & Python
+#  JFET Output Characteristics – Lab Measurement, KiCad & Python
 
 This project documents the **manual characterization of a BF256A N-JFET transistor** through lab measurements, circuit simulation in **KiCad**, and data visualization using **Python (Matplotlib)**. It was conducted as part of my coursework in *Bauelemente und Schaltungstechnik* at Universität Siegen to strengthen my analog circuit analysis skills.
 
