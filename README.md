@@ -25,4 +25,8 @@ This repository contains the **manual lab-based characterization** of a JFET tra
 | `Script/`  | Python script used for plotting           |
 
 ---
+📄 Author
+Mainak Roy
+M.Sc. Electrical Engineering
+Universität Siegen
 
