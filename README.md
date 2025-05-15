@@ -59,7 +59,7 @@ The Excel data was processed using a Python script to generate the IDS–VDS cur
 
 ## 📁 Folder Structure
 
-```plaintext
+
 JFET-BF256A-Characterization/
 ├── data/
 │   └── JFET_output_table.xlsx
@@ -73,3 +73,12 @@ JFET-BF256A-Characterization/
 │   └── JFET_Characteristics.py
 ├── requirements.txt
 └── README.md
+---
+
+## ▶️ Run the Plot Script
+
+### ✅ 1. Install requirements
+
+```bash
+pip install -r requirements.txt
+
